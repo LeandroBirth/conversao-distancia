@@ -2,7 +2,7 @@
 
 https://hub.docker.com/r/leandrobirth/conversao-distancia/tags
 
-# Conversão de Distâncias
+# Distance Converter - Python with Docker
 
 A Python-based application for converting distances between different measurement units, packaged with Docker for seamless deployment and usage.
 
